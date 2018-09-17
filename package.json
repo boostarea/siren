@@ -1,0 +1,32 @@
+{
+  "name": "siren",
+  "description": "so simple hexo theme.",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "hexo",
+    "theme",
+    "typing",
+    "siren"
+  ],
+  "author": {
+    "name": "rong.chen",
+    "email": "gnornehc@gmail.com",
+    "url": "github.com/ooooor"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "gitment": "^0.0.3",
+    "normalize.css": "^4.2.0",
+    "typo.css": "^2.1.2"
+  },
+  "devDependencies": {
+    "cssnano": "^3.7.3",
+    "postcss-cli": "^2.5.2",
+    "postcss-import": "^8.1.2",
+    "precss": "^1.4.0"
+  }
+}
