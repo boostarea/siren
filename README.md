@@ -14,4 +14,4 @@
 
 1. 在Hexo本地仓库下，clone siren
 
-	`git clone https://github.com/ooooor/siren.git themes/siren`
+	```git clone https://github.com/ooooor/siren.git themes/siren
