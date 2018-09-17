@@ -7,8 +7,6 @@ dark: false
 # Header
 menu:
   Home: /
-  Archives: /archives
-  About: /about
 
 # Your Feed Location
 #rss: /atom.xml

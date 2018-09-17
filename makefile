@@ -4,11 +4,11 @@ css:
 
 .PHONY: copy
 copy:
-	mkdir -p ../hexo-theme-unit-test/themes/typing
-	cp -r ./layout ../hexo-theme-unit-test/themes/typing/
-	cp -r ./source ../hexo-theme-unit-test/themes/typing/
-	cp -r ./languages ../hexo-theme-unit-test/themes/typing/
-	cp -r ./_config.yml ../hexo-theme-unit-test/themes/typing/
+	mkdir -p ../hexo-theme-unit-test/themes/siren
+	cp -r ./layout ../hexo-theme-unit-test/themes/siren/
+	cp -r ./source ../hexo-theme-unit-test/themes/siren/
+	cp -r ./languages ../hexo-theme-unit-test/themes/siren/
+	cp -r ./_config.yml ../hexo-theme-unit-test/themes/siren/
 
 
 .PHONY: all
