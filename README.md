@@ -18,11 +18,11 @@ so simple so beautiful [view](https://ooooor.github.io/)
 	git clone https://github.com/ooooor/siren.git themes/siren
 	```
 2. 修改_config.yml
-        ```bash
+        ```shell
 	theme: siren
 	```
 3. 执行构建语句
-        ```bash
+        ```shell
         hexo clean
 	hexo g
 	hexo server -debug
