@@ -8,7 +8,12 @@ so simple so beautiful [view](https://ooooor.github.io/)
 <img src="https://raw.githubusercontent.com/wiki/ooooor/siren/siren_index.png" width="420"/>
 
 - 文章列表
+
+<img src="https://raw.githubusercontent.com/wiki/ooooor/siren/siren_article.png" width="420"/>
+
 - 文章详情
+
+<img src="https://raw.githubusercontent.com/wiki/ooooor/siren/siren_detail.png" width="420"/>
 
 #### 安装方法
 
