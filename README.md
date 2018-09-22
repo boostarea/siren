@@ -14,6 +14,8 @@ so simple so beautiful [view](https://ooooor.github.io/)
 
 1. 在Hexo本地仓库下，克隆siren
 
+
+
   ```shell
   git clone https://github.com/ooooor/siren.git themes/siren
   ```
