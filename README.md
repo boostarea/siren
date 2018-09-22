@@ -17,14 +17,23 @@ so simple so beautiful [view](https://ooooor.github.io/)
   ```shell
   git clone https://github.com/ooooor/siren.git themes/siren
   ```
+
 2. 修改_config.yml
-        ```shell
+
+
+
+    ```shell
     theme: siren
-        ```
+    ```
+
 3. 执行构建语句
-        ```shell
+
+
+
+    ```shell
     hexo clean
     hexo g
     hexo server -debug
-        ```
+    ```
+
 4. 享受美妙时光
