@@ -14,17 +14,17 @@ so simple so beautiful [view](https://ooooor.github.io/)
 
 1. 在Hexo本地仓库下，克隆siren
 
-	```shell
-	git clone https://github.com/ooooor/siren.git themes/siren
-	```
+  ```shell
+  git clone https://github.com/ooooor/siren.git themes/siren
+  ```
 2. 修改_config.yml
         ```shell
-	theme: siren
-	```
+    theme: siren
+        ```
 3. 执行构建语句
         ```shell
-        hexo clean
-	hexo g
-	hexo server -debug
-	```
+    hexo clean
+    hexo g
+    hexo server -debug
+        ```
 4. 享受美妙时光
