@@ -1,5 +1,5 @@
 # siren
-so simple so beautiful [view](https://ooooor.github.io/)
+so simple so beautiful, see [view](https://ooooor.github.io/)
 
 #### 界面
 
@@ -19,23 +19,17 @@ so simple so beautiful [view](https://ooooor.github.io/)
 
 1. 在Hexo本地仓库下，克隆siren
 
-
-
-  ```shell
-  git clone https://github.com/ooooor/siren.git themes/siren
-  ```
+    ```shell
+    git clone https://github.com/ooooor/siren.git themes/siren
+    ```
 
 2. 修改_config.yml
-
-
 
     ```shell
     theme: siren
     ```
 
 3. 执行构建语句
-
-
 
     ```shell
     hexo clean
